@@ -10,6 +10,12 @@ Credit card fraud is a major issue for financial institutions and consumers. Mac
 
 ---
 
+
+## Dataset
+
+-  dataset : https://drive.google.com/file/d/1qE-eyGUGkssx6wD0nkGSr6J_xDf0Po4q/view?usp=sharing
+-  download the dataset from the above link
+
 ## 📁 Repository Structure
 
 Credit-fraud-Project/
