@@ -13,8 +13,9 @@ Credit card fraud is a major issue for financial institutions and consumers. Mac
 ## 📁 Repository Structure
 
 Credit-fraud-Project/
-├── credit_fraud.ipynb # Main notebook with analysis & modeling
-├── README.md # Project description 
+
+-  ├── credit_fraud.ipynb # Main notebook with analysis & modeling
+-  ├── README.md # Project description 
 
 
 
